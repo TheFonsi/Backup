@@ -12,7 +12,7 @@ DAY=$(date +"%a")
 
 echo ""
 echo "Author: Dawid xCraftRayX Grzywniak"
-echo "Contact TeamSpeak3: MineS.pl"
+echo "Contact Discord: https://discord.gg/bGBDs7A"
 echo ""
 echo ":: Version of Backup [$version]"
 echo ""
